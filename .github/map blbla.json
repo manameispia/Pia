@@ -312,7 +312,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"src\/assets\/WA_Special_Zones.png",
+         "image":"..\/src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -335,7 +335,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"src\/assets\/WA_Decoration.png",
+         "image":"..\/src\/assets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -348,7 +348,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"src\/assets\/WA_Miscellaneous.png",
+         "image":"..\/src\/assets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -361,7 +361,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"src\/assets\/WA_Other_Furniture.png",
+         "image":"..\/src\/assets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -374,7 +374,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"src\/assets\/WA_Room_Builder.png",
+         "image":"..\/src\/assets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -387,7 +387,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"src\/assets\/WA_Seats.png",
+         "image":"..\/src\/assets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -400,7 +400,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"src\/assets\/WA_Tables.png",
+         "image":"..\/src\/assets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -413,7 +413,7 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"src\/assets\/WA_Logo_Long.png",
+         "image":"..\/src\/assets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -426,7 +426,7 @@
         {
          "columns":25,
          "firstgid":1833,
-         "image":"src\/assets\/WA_Exterior.png",
+         "image":"..\/src\/assets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -439,7 +439,7 @@
         {
          "columns":32,
          "firstgid":2683,
-         "image":"src\/assets\/THB_starter21.png",
+         "image":"..\/src\/assets\/THB_starter21.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -452,7 +452,7 @@
         {
          "columns":32,
          "firstgid":3707,
-         "image":"src\/assets\/THB_starter21.png",
+         "image":"..\/src\/assets\/THB_starter21.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
